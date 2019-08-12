@@ -1,4 +1,4 @@
-package com.lzk.videoplayersdk;
+package com.lzk.videoplayersdk.core;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -10,8 +10,6 @@ import android.media.MediaPlayer;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.LayoutInflater;
-import android.view.MotionEvent;
-import android.view.PointerIcon;
 import android.view.Surface;
 import android.view.TextureView;
 import android.view.View;
@@ -21,6 +19,8 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 
+import com.lzk.videoplayersdk.Bean.AdParameters;
+import com.lzk.videoplayersdk.R;
 import com.lzk.videoplayersdk.Util.Utils;
 import com.lzk.videoplayersdk.constants.SDKConstant;
 

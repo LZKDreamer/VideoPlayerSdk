@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.widget.RelativeLayout;
 
 import com.lzk.videoplayersdk.Bean.VideoBean;
+import com.lzk.videoplayersdk.core.VideoPlayerManager;
 
 public class MainActivity extends AppCompatActivity {
 

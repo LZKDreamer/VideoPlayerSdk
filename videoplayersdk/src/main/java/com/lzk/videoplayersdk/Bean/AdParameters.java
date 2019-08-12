@@ -1,4 +1,4 @@
-package com.lzk.videoplayersdk;
+package com.lzk.videoplayersdk.Bean;
 
 import com.lzk.videoplayersdk.constants.SDKConstant;
 

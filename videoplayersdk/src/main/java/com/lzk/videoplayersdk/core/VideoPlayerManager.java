@@ -1,8 +1,5 @@
-package com.lzk.videoplayersdk;
+package com.lzk.videoplayersdk.core;
 
-import android.content.Context;
-import android.media.MediaRecorder;
-import android.print.PrinterId;
 import android.view.ViewGroup;
 
 import com.lzk.videoplayersdk.Bean.VideoBean;

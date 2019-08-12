@@ -1,4 +1,4 @@
-package com.lzk.videoplayersdk;
+package com.lzk.videoplayersdk.core;
 
 import android.content.Context;
 import android.view.ViewGroup;
